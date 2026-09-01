@@ -10,7 +10,7 @@ def text_to_speech(text: str):
             engine.setProperty('voice', voice.id)
             break
 
-    engine.setProperty('rate', 140)
+    engine.setProperty('rate', 200)
     engine.setProperty('volume', 0.8)
 
     engine.say(text)
