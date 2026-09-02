@@ -16,3 +16,4 @@ def text_to_speech(text: str):
     engine.say(text)
     engine.runAndWait()
 
+
