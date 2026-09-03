@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+
+# Development dependencies (optional)
+# Install with: pip install -r requirements-dev.txt
