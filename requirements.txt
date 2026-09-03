@@ -1,0 +1,9 @@
+# Core dependencies
+requests>=2.31.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.1.0
+flake8>=6.0.0
